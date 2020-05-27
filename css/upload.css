@@ -1,0 +1,40 @@
+.service-wrap {
+    width: 70%;
+    max-width: 500px;
+    margin: 25px auto;
+    padding: 25px;
+    border: 1px solid #000;
+  }
+  
+  .multiple-file-upload-wrap {
+    width: 100%;
+    max-width: 500px;
+    border: 1px solid #dadada;
+    padding: 15px;
+    
+    }
+    .already-uploaded-files {
+      padding: 10px;
+      background: #fafafa;
+      margin-bottom: 15px;
+      
+      
+      }
+      .aup-file-name {
+        display: inline-block;
+        margin-right: 15px;
+      }
+      .aup-delete-btn {
+        color: red;
+        display: inline-block;
+        float: right;
+        
+      }
+      .aup-server-response {
+        display: none;
+        color: red;
+        padding: 5px 15px;
+        background: #fff;
+      }
+    
+  
